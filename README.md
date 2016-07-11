@@ -3,8 +3,8 @@ lazy loading images
 
 
 
-use `data-loader-set` for srcset
-use `data-loader-src` for src
+- use `data-loader-set` for srcset  
+- use `data-loader-src` for src
 
 ```
  <img
